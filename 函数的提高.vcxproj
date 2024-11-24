@@ -128,6 +128,8 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="函数占位参数.cpp" />
+    <ClCompile Include="函数重载.cpp" />
+    <ClCompile Include="函数重载的坑.cpp" />
     <ClCompile Include="函数默认参数.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
